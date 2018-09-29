@@ -1,4 +1,4 @@
-package BelajarOOP;
+
 /*ketentuan Program:
 Gaji bersih = gaji pokok + tunjangan istri + tunjangan anak – potongan.
 Di mana tunjangan istri diberikan sebesar 10% dari gaji pokok, 
